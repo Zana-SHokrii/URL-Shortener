@@ -1,6 +1,6 @@
 # URL Shortener
 
-A url shortener to convert links into short ones, built with **HTML**, **PHP**, and **MySQL**
+A url shortener to convert links into short ones, built with **HTML**, **PHP** and **MySQL**
 
 This website is ready to deploy by itself and requires no dependencies.
 
