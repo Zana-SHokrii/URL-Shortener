@@ -10,7 +10,7 @@ This website is ready to deploy by itself and requires no dependencies.
 - Easy configuration in the `Config.php` file
 - See the number of clicks
 - Individual and group deletion
-- Less than 70Kb
+- Less than 70KB
 
 
 ## Installation instructions
